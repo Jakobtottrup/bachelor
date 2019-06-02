@@ -5,12 +5,15 @@
 <br>
 <br>
 
+Demonstration video: https://www.youtube.com/watch?v=bDondeydFxA <br>
+Profile comparison recording video: https://www.youtube.com/watch?v=r-Q_5xuyQak
+
 ## Installation instructions
 
 #### prerequisites:
 Working node.js + npm installation.
 
-<br><br>
+<br>
 
 Step 1: In the project directory, run:
 
@@ -47,5 +50,3 @@ Username/Password: See the README.txt supplied in the folder uploaded on blackbo
 
 Data can take up to a minute to appear in the real-time graph. A suggestion would be to keep the terminal window running the node server open to confirm the webserver received the data.
 
-Demonstration video: https://www.youtube.com/watch?v=bDondeydFxA <br>
-Profile comparison recording video: https://www.youtube.com/watch?v=r-Q_5xuyQak
