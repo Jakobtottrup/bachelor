@@ -1,6 +1,6 @@
-#Learning and Experience Technology Bachelor project 2019
+# Learning and Experience Technology Bachelor project 2019
 
-##by Jakob Tøttrup
+## by Jakob Tøttrup
 
 <br>
 <br>
